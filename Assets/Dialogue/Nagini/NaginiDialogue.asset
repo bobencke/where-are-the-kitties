@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066304b2e0df35c44a27d6e9de33d465, type: 3}
+  m_Name: NaginiDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Nagini
+  npcPortrait: {fileID: 1402562035, guid: e02d859fa42439040a41506c87f77d4a, type: 3}
+  dialogueLines:
+  - "O que faz aqui criatura simpl\xF3ria? "
+  - "N\xE3o importune a serenidade de meu covil."
+  - A menos que possua um vermelho e doce petisco...
+  - Somente meu glorioso rubro fruto me traria deleite.
+  autoProgressLines: 01010101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.08
+  voiceSound: {fileID: 8300000, guid: 33c6bef37409a4a4ca7073d5f9abc46f, type: 3}
+  voicePitch: 0.9

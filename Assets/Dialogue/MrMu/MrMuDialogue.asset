@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066304b2e0df35c44a27d6e9de33d465, type: 3}
+  m_Name: MrMuDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Mr Mu
+  npcPortrait: {fileID: 8793639957104055765, guid: fa3195f3a3635804da1e8632761a83ef, type: 3}
+  dialogueLines:
+  - "Vibrantes s\xE3o as cores que a vida proporciona."
+  - "Incas\xE1veis sintonias que sobrecarregam o meu ser."
+  - Por um momento ao sol.
+  - Por um segundo de clareza.
+  - Perder-se no infindo de minha curiosidade.
+  - "E nunca reconhecer a solid\xE3o."
+  - "Essa \xE9 a minha raz\xE3o."
+  autoProgressLines: 01010101010101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.1
+  voiceSound: {fileID: 8300000, guid: 33c6bef37409a4a4ca7073d5f9abc46f, type: 3}
+  voicePitch: 0.5

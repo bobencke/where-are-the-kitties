@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066304b2e0df35c44a27d6e9de33d465, type: 3}
+  m_Name: RicotaDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Ricota
+  npcPortrait: {fileID: -1660683582, guid: 412b6ccc75020004a8b87ef1b8cce506, type: 3}
+  dialogueLines:
+  - pode me ajudar?
+  - eu... eu queria muito uma massa...
+  - mas todos pedem algo em troca
+  - "e eu... eu n\xE3o tenho nada...."
+  autoProgressLines: 01010100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.04
+  voiceSound: {fileID: 8300000, guid: 33c6bef37409a4a4ca7073d5f9abc46f, type: 3}
+  voicePitch: 0.9
